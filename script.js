@@ -31,7 +31,3 @@ function changeColor(){
     document.getElementById('colorBox').style.backgroundColor = "Blue";
 }
 document.getElementById('btn5').addEventListener('click', changeColor)
-
-
-
-
